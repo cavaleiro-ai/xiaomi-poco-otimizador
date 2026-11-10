@@ -1,0 +1,17 @@
+{
+  "name": "xiaomi-poco-otimizador",
+  "owner": {
+    "name": "cavaleiro-ai",
+    "url": "https://github.com/cavaleiro-ai"
+  },
+  "description": "Skill do Claude Code para diagnosticar, otimizar e limpar com segurança celulares Android via ADB (foco em Xiaomi/POCO/Redmi).",
+  "plugins": [
+    {
+      "name": "xiaomi-poco-otimizador",
+      "source": "./plugins/xiaomi-poco-otimizador",
+      "description": "Raio-x do celular Android (obsolescência programada, térmica, bateria, RAM, apps mineradores), debloat reversível, restrição de segundo plano e backup verificado antes de liberar espaço.",
+      "category": "productivity",
+      "tags": ["android", "adb", "xiaomi", "poco", "redmi", "hyperos", "miui", "debloat", "backup", "otimizacao"]
+    }
+  ]
+}

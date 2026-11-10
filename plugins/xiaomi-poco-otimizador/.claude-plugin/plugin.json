@@ -1,0 +1,13 @@
+{
+  "name": "xiaomi-poco-otimizador",
+  "version": "1.0.0",
+  "description": "Raio-x, otimização e limpeza segura de celulares Android via ADB: obsolescência programada, limitação térmica, bateria, RAM, apps mineradores, debloat reversível e backup verificado de mídias.",
+  "author": {
+    "name": "cavaleiro-ai",
+    "url": "https://github.com/cavaleiro-ai"
+  },
+  "homepage": "https://github.com/cavaleiro-ai/xiaomi-poco-otimizador",
+  "repository": "https://github.com/cavaleiro-ai/xiaomi-poco-otimizador",
+  "license": "MIT",
+  "keywords": ["android", "adb", "xiaomi", "poco", "hyperos", "debloat", "backup", "obsolescencia-programada"]
+}

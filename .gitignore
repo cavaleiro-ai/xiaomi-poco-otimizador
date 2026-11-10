@@ -1,0 +1,27 @@
+# Dados pessoais gerados pelo uso da skill: nunca versionar
+coleta/
+coleta*/
+analise/
+execucao/
+camera_bruto/
+celular_*/
+scan_*/
+_logs/
+*.zip
+*.apk
+*.apks
+*.xapk
+RESTAURAR_*.txt
+remocao_*.log
+RELATORIO_*.md
+PLANO_*.md
+EXECUCAO_*.md
+
+# Python
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
